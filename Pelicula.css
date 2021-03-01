@@ -1,0 +1,29 @@
+body{
+background-color: #AF601A;
+}
+h1{
+color: green;
+font-family:"Arial";
+}
+p{
+color: #00FFFF;
+font-family: "Aharoni";
+position: relative;
+top:30%;
+font-size:20px;
+}
+
+img{
+position: relative;
+left:20%;
+top:30%;
+size: relative;
+height: 50%;
+}
+table{
+background-color:red;
+position: relative;
+left:35%;
+width: 35%;
+font-size:25px;
+color: white;

@@ -1,0 +1,20 @@
+body{
+background-image:url("legend of zelda ocarina of time.jpg");
+}
+h1{
+color: white;
+font-family:"Arial";
+}
+
+table{
+background-color:green;
+width:45%;
+position: relative;
+left:30%;
+top:40%;
+}
+p{
+backgroudn-color:#008000;
+font-family:"Aharoni";
+}
+
